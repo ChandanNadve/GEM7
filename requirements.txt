@@ -1,1 +1,4 @@
-y
+pandas
+numpy
+matplotlib
+-e .
